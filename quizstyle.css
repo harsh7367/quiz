@@ -1,0 +1,16 @@
+button{
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+h2{
+    font-size: 70px;
+    color:blue;
+}
+#star{
+    display:none;
+}
+#demo{
+    font-size: 40px;
+    color:darksalmon;
+}
